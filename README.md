@@ -1,102 +1,88 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
-  Hey there, I'm Asma!
-</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:FF1493,100:C71585&height=210&section=header&text=Fathima%20Asma&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20%7C%20Spring%20Boot%20%7C%20Aspiring%20Software%20Engineer&descAlignY=57&descSize=17&descColor=ffd6e8" alt="Header"/>
 
 <p align="center">
-  <b>Java Developer · Spring Boot · REST APIs · Aspiring Software Engineer</b>
+  <a href="https://fathima-asma-portfolio.pages.dev/" title="Visit my Portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-EC4899?style=flat&logo=About.me&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/fathima-asma-5602403ab/" title="Connect on LinkedIn" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/asma-mf?tab=repositories" title="Explore my GitHub repositories" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=asma-mf&style=flat&color=EC4899&label=Profile+Views"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/asma-mf">
-    <img src="https://img.shields.io/badge/GitHub-asma--mf-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/fathima-asma-5602403ab/">
-    <img src="https://img.shields.io/badge/LinkedIn-Fathima%20Asma-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://fathima-asma-portfolio.pages.dev/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-6366f1?style=flat-square&logo=google-chrome&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=asma-mf&style=flat-square&color=6366f1&label=Profile+Views"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=E879F9&center=true&vCenter=true&random=false&width=720&height=55&lines=Hi+there%2C+I'm+Asma!+%F0%9F%91%8B;Java+Developer+%7C+Spring+Boot+%E2%9C%A8;Building+clean+%26+purposeful+backends+%F0%9F%9A%80;Turning+ideas+into+working+software+%F0%9F%92%96;Still+growing+—+one+commit+at+a+time!" alt="Typing SVG"/>
 </p>
 
----
+<div align="center">
 
-## 👩‍💻 About Me
+<em> **Code with elegance. Build with purpose. Grow without limits.** 💖 </em>
 
-I'm a **Java developer** focused on building clean, well-structured backend applications. I enjoy turning real-world problems into working software — from IoT tracking systems to REST APIs — and I'm actively seeking **software engineering internship opportunities**.
-
-- 🔭 Currently building: **REST APIs with Spring Boot** and refining my backend architecture skills
-- 🌱 Learning: **Spring Boot**, **clean architecture**, and best practices in backend development
-- 🎯 Goal: Land a **software engineering internship** and contribute to meaningful open-source projects
-- 💡 I believe in writing code that's readable, maintainable, and purposeful
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/C++-1572B6?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-1572B6?style=flat-square&logo=python&logoColor=white)
-
-**Frameworks & Libraries**
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Servlet](https://img.shields.io/badge/Servlet%20%2F%20JSP-007396?style=flat-square&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+</div>
 
 
 ---
 
-## 📊 GitHub Stats
+### 🔧 Technologies & Tools
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=asma-mf&show_icons=true&theme=tokyonight&border_radius=8&hide_border=false&count_private=true" alt="Asma's GitHub Stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asma-mf&layout=compact&theme=tokyonight&border_radius=8&hide_border=false" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+[![Skills row 1 light](https://skillicons.dev/icons?i=java,spring,html,css,react,python,cpp&theme=light)](https://github.com/asma-mf#gh-light-mode-only)
+[![Skills row 2 light](https://skillicons.dev/icons?i=git,github,vscode,idea,mysql,sqlite&theme=light)](https://github.com/asma-mf#gh-light-mode-only)
+
+[![Skills row 1 dark](https://skillicons.dev/icons?i=java,spring,html,css,react,python,cpp&theme=dark)](https://github.com/asma-mf#gh-dark-mode-only)
+[![Skills row 2 dark](https://skillicons.dev/icons?i=git,github,vscode,idea,mysql,sqlite&theme=dark)](https://github.com/asma-mf#gh-dark-mode-only)
+
+<em>Still growing — one commit at a time... 🌸</em>
+</div>
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+
+[![GitHub Stats dark](https://github-readme-stats.vercel.app/api?username=asma-mf&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&icon_color=F472B6&title_color=E879F9)](https://github.com/asma-mf#gh-dark-mode-only)
+[![GitHub Stats light](https://github-readme-stats.vercel.app/api?username=asma-mf&show_icons=true&theme=default&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&icon_color=EC4899&title_color=EC4899)](https://github.com/asma-mf#gh-light-mode-only)
+[![Top Langs dark](https://github-readme-stats.vercel.app/api/top-langs/?username=asma-mf&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=E879F9)](https://github.com/asma-mf#gh-dark-mode-only)
+[![Top Langs light](https://github-readme-stats.vercel.app/api/top-langs/?username=asma-mf&layout=compact&theme=default&hide_border=true&langs_count=6&title_color=EC4899)](https://github.com/asma-mf#gh-light-mode-only)
+
+[![Streak dark](https://streak-stats.demolab.com?user=asma-mf&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=F472B6&fire=E879F9&currStreakLabel=F472B6)](https://github.com/asma-mf#gh-dark-mode-only)
+[![Streak light](https://streak-stats.demolab.com?user=asma-mf&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=EC4899&fire=C084FC&currStreakLabel=EC4899)](https://github.com/asma-mf#gh-light-mode-only)
+
+[![Activity dark](https://github-readme-activity-graph.vercel.app/graph?username=asma-mf&theme=tokyo-night&hide_border=true&area=true&area_color=F472B6&color=E879F9&line=F472B6&point=ffffff)](https://github.com/asma-mf#gh-dark-mode-only)
+[![Activity light](https://github-readme-activity-graph.vercel.app/graph?username=asma-mf&theme=github-compact&hide_border=true&area=true&area_color=EC4899&color=EC4899&line=EC4899&point=EC4899)](https://github.com/asma-mf#gh-light-mode-only)
+
+</div>
+
+---
+
+### 🔗 Connect with Me
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=asma-mf&theme=tokyonight&border_radius=8" alt="GitHub Streak"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/fathima-asma-5602403ab/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <a href="https://fathima-asma-portfolio.pages.dev/" title="Visit my Portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-EC4899?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
   &nbsp;
-  <a href="https://fathima-asma-portfolio.pages.dev/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/fathima-asma-5602403ab/" title="Connect on LinkedIn" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   &nbsp;
-  <a href="https://github.com/asma-mf">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <a href="https://github.com/asma-mf" title="Follow on GitHub" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-<p align="center">
-  <i>"Still growing — one commit at a time."</i><br/>
-  <sub>Open to internship opportunities · Let's build something great together 🚀</sub>
-</p>
+<div align="center">
+<i>"Still growing — one commit at a time." 🌸</i>
+<br><br>
+
+[![Explore repos dark](https://img.shields.io/badge/🌸_Explore%20my%20repos-F472B6?style=for-the-badge&logo=github&color=be185d&logoColor=ffffff)](https://github.com/asma-mf?tab=repositories#gh-dark-mode-only)
+
+[![Explore repos light](https://img.shields.io/badge/🌸_Explore%20my%20repos-F472B6?style=for-the-badge&logo=github&color=fce7f3&logoColor=be185d)](https://github.com/asma-mf?tab=repositories#gh-light-mode-only)
+
+<br><br>
+<sub>Built with 💖 by <b>Fathima Asma</b> &nbsp;·&nbsp; Open to internship opportunities 🚀</sub>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:FF1493,100:C71585&height=120&section=footer" alt="Footer"/>
