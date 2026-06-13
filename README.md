@@ -1,71 +1,102 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
-  Hi, I'm a Beginning Coder!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
+  Hey there, I'm Asma!
 </h1>
 
 <p align="center">
-  <b>I'm not a professional yet, but I'm learning every day with passion and patience.</b>
+  <b>Java Developer · Spring Boot · REST APIs · Aspiring Software Engineer</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/asma-mf">
+    <img src="https://img.shields.io/badge/GitHub-asma--mf-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/fathima-asma-5602403ab/">
+    <img src="https://img.shields.io/badge/LinkedIn-Fathima%20Asma-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://fathima-asma-portfolio.pages.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-6366f1?style=flat-square&logo=google-chrome&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=asma-mf&style=flat-square&color=6366f1&label=Profile+Views"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-- 🌱 I’m currently learning **Java (OOP, Servlets, JSP)**, web development (HTML, CSS), and file handling.
-- 🛠️ I’m working on:  
-  &nbsp;&nbsp;• Life Signal Tracking System (IoT project)  
-  &nbsp;&nbsp;• Study Planner (Java + File Handling)  
-  &nbsp;&nbsp;• Fitness Membership System 
-- 🎯 My goals:  
-  &nbsp;&nbsp;• Improve my coding skills  
-  &nbsp;&nbsp;• Build more real-world projects  
-  &nbsp;&nbsp;• Collaborate and learn with others
+I'm a **Java developer** focused on building clean, well-structured backend applications. I enjoy turning real-world problems into working software — from IoT tracking systems to REST APIs — and I'm actively seeking **software engineering internship opportunities**.
+
+- 🔭 Currently building: **REST APIs with Spring Boot** and refining my backend architecture skills
+- 🌱 Learning: **Spring Boot**, **clean architecture**, and best practices in backend development
+- 🎯 Goal: Land a **software engineering internship** and contribute to meaningful open-source projects
+- 💡 I believe in writing code that's readable, maintainable, and purposeful
 
 ---
 
-## 🧰 Technologies & Tools
+## 🛠️ Tech Stack
 
-<p>
-  <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="30" alt="Java"/>
-  <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="30" alt="HTML"/>
-  <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" width="30" alt="CSS"/>
-  <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width="30" alt="VSCode"/>
-  <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="30" alt="Git"/>
-</p>
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-1572B6?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1572B6?style=flat-square&logo=python&logoColor=white)
+
+**Frameworks & Libraries**
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Servlet](https://img.shields.io/badge/Servlet%20%2F%20JSP-007396?style=flat-square&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+
 
 ---
 
 ## 📊 GitHub Stats
 
 <table>
-<tr>
-<td>
-
-[![Asma D's GitHub stats](https://github-readme-stats.vercel.app/api?username=fathi-asma&show_icons=true&theme=github_dark&text_bold=true&show=(reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)&border_radius=8&border_color=30363d)](https://github.com/fathi-asma/github-readme-stats#gh-dark-mode-only)
-
-[![Asma's GitHub stats](https://github-readme-stats.vercel.app/api?username=fathi-asma&show_icons=true&theme=github_light&text_bold=true&show=(reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)&border_radius=8)](https://github.com/fathi-asma/github-readme-stats#gh-light-mode-only)
-
-</td>
-<td>
-
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=fathi-asma&theme=github_dark&include_all_commits=true&count_private=false&layout=compact&border_color=30363d)](https://github.com/fathi-asma/github-readme-stats#gh-dark-mode-only)
-
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=fathi-asma&theme=github_light&include_all_commits=true&count_private=false&layout=compact)](https://github.com/fathi-asma/github-readme-stats#gh-light-mode-only)
-
-</td>
-</tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=asma-mf&show_icons=true&theme=tokyonight&border_radius=8&hide_border=false&count_private=true" alt="Asma's GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asma-mf&layout=compact&theme=tokyonight&border_radius=8&hide_border=false" alt="Top Languages"/>
+    </td>
+  </tr>
 </table>
-<p align="center"><i>Switch to light mode for a different style!</i></p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=asma-mf&theme=tokyonight&border_radius=8" alt="GitHub Streak"/>
+</p>
 
 ---
 
-## 💬 Ask Me About
+## 🌐 Connect With Me
 
-- Java basics
-- Simple project structure
-- How I started learning coding
+<p>
+  <a href="https://www.linkedin.com/in/fathima-asma-5602403ab/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://fathima-asma-portfolio.pages.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/asma-mf">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-> 📌 _"Still learning... one line of code at a time."_  
-> <sub>Made with ❤️ by a passionate beginner</sub>
+<p align="center">
+  <i>"Still growing — one commit at a time."</i><br/>
+  <sub>Open to internship opportunities · Let's build something great together 🚀</sub>
+</p>
