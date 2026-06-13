@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:FF1493,100:C71585&height=210&section=header&text=Fathima%20Asma&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20%7C%20Spring%20Boot%20%7C%20Aspiring%20Software%20Engineer&descAlignY=57&descSize=17&descColor=ffd6e8" alt="Header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,100:DB2777&height=210&section=header&text=Fathima%20Asma&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20%7C%20Spring%20Boot%20%7C%20Aspiring%20Software%20Engineer&descAlignY=57&descSize=17&descColor=ffe4f0" alt="Header"/>
 
 <p align="center">
   <a href="https://fathima-asma-portfolio.pages.dev/" title="Visit my Portfolio" target="_blank">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=E879F9&center=true&vCenter=true&random=false&width=720&height=55&lines=Hi+there%2C+I'm+Asma!+%F0%9F%91%8B;Java+Developer+%7C+Spring+Boot+%E2%9C%A8;Building+clean+%26+purposeful+backends+%F0%9F%9A%80;Turning+ideas+into+working+software+%F0%9F%92%96;Still+growing+—+one+commit+at+a+time!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=FF6EB4&center=true&vCenter=true&random=false&width=720&height=55&lines=Hi+there%2C+I'm+Asma!+%F0%9F%91%8B;Java+Developer+%7C+Spring+Boot+%E2%9C%A8;Building+clean+%26+purposeful+backends+%F0%9F%9A%80;Turning+ideas+into+working+software+%F0%9F%92%96;Still+growing+%E2%80%94+one+commit+at+a+time!" alt="Typing SVG"/>
 </p>
 
 <div align="center">
@@ -42,16 +42,13 @@
 
 <div align="center">
 
-[![GitHub Stats dark](https://github-readme-stats.vercel.app/api?username=asma-mf&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&icon_color=F472B6&title_color=E879F9)](https://github.com/asma-mf#gh-dark-mode-only)
-[![GitHub Stats light](https://github-readme-stats.vercel.app/api?username=asma-mf&show_icons=true&theme=default&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&icon_color=EC4899&title_color=EC4899)](https://github.com/asma-mf#gh-light-mode-only)
-[![Top Langs dark](https://github-readme-stats.vercel.app/api/top-langs/?username=asma-mf&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=E879F9)](https://github.com/asma-mf#gh-dark-mode-only)
-[![Top Langs light](https://github-readme-stats.vercel.app/api/top-langs/?username=asma-mf&layout=compact&theme=default&hide_border=true&langs_count=6&title_color=EC4899)](https://github.com/asma-mf#gh-light-mode-only)
+[![Stats dark](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asma-mf&theme=github_dark)](https://github.com/asma-mf#gh-dark-mode-only) [![Langs dark](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asma-mf&theme=github_dark)](https://github.com/asma-mf#gh-dark-mode-only)
 
-[![Streak dark](https://streak-stats.demolab.com?user=asma-mf&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=F472B6&fire=E879F9&currStreakLabel=F472B6)](https://github.com/asma-mf#gh-dark-mode-only)
-[![Streak light](https://streak-stats.demolab.com?user=asma-mf&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=EC4899&fire=C084FC&currStreakLabel=EC4899)](https://github.com/asma-mf#gh-light-mode-only)
+[![Stats light](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asma-mf&theme=github)](https://github.com/asma-mf#gh-light-mode-only) [![Langs light](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asma-mf&theme=github)](https://github.com/asma-mf#gh-light-mode-only)
 
-[![Activity dark](https://github-readme-activity-graph.vercel.app/graph?username=asma-mf&theme=tokyo-night&hide_border=true&area=true&area_color=F472B6&color=E879F9&line=F472B6&point=ffffff)](https://github.com/asma-mf#gh-dark-mode-only)
-[![Activity light](https://github-readme-activity-graph.vercel.app/graph?username=asma-mf&theme=github-compact&hide_border=true&area=true&area_color=EC4899&color=EC4899&line=EC4899&point=EC4899)](https://github.com/asma-mf#gh-light-mode-only)
+[![Details dark](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asma-mf&theme=github_dark)](https://github.com/asma-mf#gh-dark-mode-only)
+
+[![Details light](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asma-mf&theme=github)](https://github.com/asma-mf#gh-light-mode-only)
 
 </div>
 
@@ -85,4 +82,4 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:FF1493,100:C71585&height=120&section=footer" alt="Footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,100:DB2777&height=120&section=footer" alt="Footer"/>
